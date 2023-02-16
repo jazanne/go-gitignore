@@ -1,4 +1,4 @@
-module github.com/monochromegane/go-gitignore
+module github.com/jazanne/go-gitignore
 
 go 1.16
 
